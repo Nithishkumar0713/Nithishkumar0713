@@ -3,82 +3,67 @@ Hi, I’m Nithish Kumar Pamidi 👋
 
 About Me
 --------
-I am a Computer Science graduate currently pursuing **PG-DITISS (Post Graduate Diploma in IT Infrastructure, Systems & Security)** at **CDAC**.
+I am a Computer Science graduate in Cybersecuirty domain and currently pursuing PG-DITISS (Post Graduate Diploma in IT Infrastructure, Systems & Security) at CDAC Hyderabad.
 
-My primary focus is on **Cybersecurity**, with an interest in understanding how systems, networks, and web applications are secured against real-world threats. I am building a strong foundation in security concepts before advancing into specialized roles such as SOC analysis, vulnerability assessment, and application security.
+My main interest is cybersecurity. I am focused on understanding how real-world systems, networks, and web applications are secured and how common vulnerabilities arise due to misconfiguration or insecure design. I am building my foundation in security concepts step by step, with an emphasis on practical understanding rather than only theory.
 
 ---
 
-Core Cybersecurity Skills
--------------------------
-Through PG-DITISS and hands-on practice, I am developing skills in:
+Cybersecurity Skills and Learning Areas
+---------------------------------------
+As part of PG-DITISS, I am developing knowledge and hands-on exposure in the following areas:
 
-- Web Application Security fundamentals
-- Vulnerability Assessment concepts and methodology
-- Understanding of common web attacks (OWASP Top 10)
-- HTTP security headers and secure configuration
-- Secure authentication and access control basics
+- Web application security fundamentals
+- Vulnerability assessment concepts and basic methodology
+- Understanding common web vulnerabilities such as those in OWASP Top 10
+- HTTP security headers and secure configuration practices
+- Authentication, authorization, and access control basics
 - Linux system security fundamentals
 - Network security basics and threat awareness
-- Security hardening and best practices
+- Security hardening and secure configuration practices
 - Ethical and responsible security testing
 
 ---
 
-Security Tools & Practices
---------------------------
-- Web security testing concepts
-- Manual security checks and validation
-- Secure application configuration
-- Log awareness and basic incident understanding
-- Git and GitHub for secure version control practices
+Security Practices and Tools
+----------------------------
+I practice cybersecurity concepts through safe and controlled environments. My learning includes manual security checks, understanding application behavior, identifying misconfigurations, and following ethical guidelines while testing. I also use Git and GitHub to maintain clean version control practices and proper project structure.
 
 ---
 
 Supporting Technical Skills
 ---------------------------
-(Used as tools to implement and understand security concepts)
-
-- Python (basic scripting for security tasks)
-- Django & Django REST Framework (secure backend exposure)
-- HTML, CSS, JavaScript (for understanding web attack surfaces)
-- Bash (basic scripting)
-- SQLite (development and learning use)
+I use programming mainly as a supporting tool to better understand security concepts. I work with Python for basic scripting and learning purposes. I have experience using Django and Django REST Framework to understand secure backend and API development. I also use HTML, CSS, and JavaScript to understand web application behavior and attack surfaces. Additionally, I use basic Bash scripting and SQLite for development and learning.
 
 ---
 
 Hands-On Learning Approach
 --------------------------
-I focus on learning cybersecurity through:
-- Practical labs aligned with PG-DITISS syllabus
-- Security-oriented mini projects
-- Safe testing in controlled environments
-- Applying secure coding and configuration principles
-- Understanding attacker mindset while respecting ethical boundaries
+I prefer learning cybersecurity through practical work rather than theory alone. I practice concepts through lab exercises aligned with the PG-DITISS syllabus and work on small security-focused projects. I focus on applying secure coding, proper configuration, and understanding how attackers think, while strictly following ethical boundaries.
 
 ---
 
 Projects (Learning Support)
 ---------------------------
-Django Security Scanner  
-- A security-focused learning project using Django REST Framework  
-- Helps understand web application misconfigurations  
-- Reinforces secure API design and request handling concepts  
+One of my key learning projects is the Django Security Scanner, which I built as part of my effort to better understand web application security from a defensive perspective. Through this project, I explored how web applications can be affected by insecure configurations and missing security controls.
 
-(Projects are used as learning tools to strengthen cybersecurity fundamentals.)
+While working on the project, I focused on understanding HTTP security headers, secure request handling, and basic validation of user input. The project helped me connect theoretical concepts such as web vulnerabilities and misconfigurations with actual backend behavior in a web application.
+
+I primarily use this project as a learning and practice platform to strengthen my understanding of secure backend design, REST API behavior, and how security issues can arise in real-world web applications when proper controls are not implemented.
+
 
 ---
 
 Career Objective
 ----------------
-To build a career in **Cybersecurity**, starting with foundational roles where I can apply security concepts, continuously learn advanced techniques, and contribute to protecting systems and applications.
+My goal is to build a career in cybersecurity by starting with foundational roles where I can apply what I am learning, continuously improve my skills, and contribute to securing systems, applications, and infrastructure.
 
 ---
 
 Academic Background
 -------------------
-- Bachelor’s degree in Computer Science Engineering in Cybersecurity  
-- Currently pursuing PG-DITISS at CDAC  
+- Bachelor’s degree in Computer Science
+- Currently pursuing PG-DITISS at CDAC Hyderabad
 
 ---
 
@@ -90,4 +75,4 @@ GitHub: https://github.com/Nithishkumar0713
 
 Declaration
 -----------
-This profile reflects my academic learning and ethical practice in cybersecurity. All activities are intended strictly for educational and professional development purposes.
+This profile reflects my academic learning and ethical practice in cybersecurity. All activities and projects are intended strictly for educational and professional development purposes.
