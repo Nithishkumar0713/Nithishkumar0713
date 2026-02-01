@@ -5,7 +5,7 @@ About Me
 --------
 I am a Computer Science graduate in Cybersecuirty domain and currently pursuing PG-DITISS (Post Graduate Diploma in IT Infrastructure, Systems & Security) at CDAC Hyderabad.
 
-My main interest is cybersecurity. I am focused on understanding how real-world systems, networks, and web applications are secured and how common vulnerabilities arise due to misconfiguration or insecure design. I am building my foundation in security concepts step by step, with an emphasis on practical understanding rather than only theory.
+My main interest is cybersecurity. I focus on understanding how real-world systems, networks, and web applications are secured, and how vulnerabilities often arise due to misconfiguration or insecure design.
 
 ---
 
